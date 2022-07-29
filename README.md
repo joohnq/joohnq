@@ -1,26 +1,16 @@
-Hello 👋 My name is João Henrique
-==============================
-
-* 🌍  Location: Ba Brasil
-* ✉️  Contact Email: [joaohenrique7482@gmail.com](mailto:joaohenrique7482@gmail.com)
-* 🧠  Constantly learning to solve new problems
-
-<a href="https://www.twitter.com/https__henrique" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https__henrique?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/joohnq" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/joohnq?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS3" /></a>
-</p>
+# 💫 Hello 👋 My name is João Henrique
+🌍 Location: Ba Brasil<br>✉️ Contact Email: joaohenrique7482@gmail.com<br>🧠 Constantly learning to solve new problems<br>🔭 I’m currently working on<br>🙂 I'm in my second year of high school, and I'm still a self-taught developer. I seek every day to improve professionally so that I have legal knowledge to add to my future jobs.
 
 
-### Social Medias
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Joohnq#6538) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https_henrique99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-henrique-de-souza-silva-b43921196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https__henrique) 
 
-<p align="left"> <a href="https://www.github.com/joohnq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="30" /></a> <a href="http://www.instagram.com/https_henrique99/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a> <a href="https://www.linkedin.com/in/joao-henrique-de-souza-silva-b43921196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a> <a href="https://www.twitter.com/https__henrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a></p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joohnq&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joohnq&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnq&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/joohnq"><img src="https://github-readme-stats.vercel.app/api?username=joohnq&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joohnq's GitHub stats" /></a>
-
-<a href="http://www.github.com/joohnq"><img src="https://activity-graph.herokuapp.com/graph?username=joohnq&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joohnq&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
