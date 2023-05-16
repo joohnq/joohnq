@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Henrique;I'm+17+years+old;I+from+Brasil,+BA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7209B7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Henrique;I'm+17+years+old;I+from+Brasil,+BA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ✉️ Contact Email: joaohenriquess3287@gmail.com<br>🧠 Constantly learning to solve new problems<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>🙂 I'm a self-taught developer, I'm in my second year of high school. I seek every day to improve professionally so that I have legal knowledge to add to my future jobs.
 
