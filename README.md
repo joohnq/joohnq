@@ -5,7 +5,7 @@
 ✉️ Contact Email: joaohenriquess3287@gmail.com<br>🧠 Constantly learning to solve new problems<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>🙂 I'm a self-taught developer, I'm in my second year of high school. I seek every day to improve professionally so that I have legal knowledge to add to my future jobs.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joohnq&show_icons=true&count_private=true&hide_border=true&title_color=D8D8F6&icon_color=D8D8F6&text_color=c9d1d9&bg_color=0d1117" alt="João Henrique github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joohnq&show_icons=true&count_private=true&hide_border=true&title_color=D8D8F6&icon_color=D8D8F6&text_color=c9d1d9&bg_color=7209B7" alt="João Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohnq&layout=compact&hide_border=true&title_color=D8D8F6&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
