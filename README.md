@@ -34,3 +34,8 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+Let's Connect! 🌟
+I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me via:
+
+Let's create amazing web and mobile experiences together! 🎉✨
