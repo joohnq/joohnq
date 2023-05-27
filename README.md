@@ -8,10 +8,7 @@
 <a href="mailto:joaohenriquess3287@gmail.com" target="_blank"><img src="https://img.shields.io/badge/joaohenriquess3287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 &nbsp;</a>
 </div>
-  
-[Enviar um email](mailto:joaohenriquess3287@gmail.com)
-
-  
+  <br>
 👨‍💻💡: Passionate about front-end development and seeking new challenges!
 - My journey as a front-end developer and what motivates me.
 - Why I'm excited to learn mobile development.
@@ -58,3 +55,5 @@
 I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me via:
 
 Let's create amazing web and mobile experiences together! 🎉✨
+  
+### joaohenriquess3287@gmail.com
