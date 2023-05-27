@@ -56,4 +56,4 @@ I'm always excited to connect with like-minded individuals and collaborate on in
 
 Let's create amazing web and mobile experiences together! 🎉✨
   
-### joaohenriquess3287@gmail.com
+### ✉️ Email : joaohenriquess3287@gmail.com
