@@ -1,17 +1,37 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Henrique;I'm+17+years+old;I+from+Brasil,+BA;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-✉️ Contact Email: joaohenriquess3287@gmail.com<br>🧠 Constantly learning to solve new problems<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>🙂 I'm a self-taught developer, I'm in my second year of high school. I seek every day to improve professionally so that I have legal knowledge to add to my future jobs.
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joohnq&show_icons=true&count_private=true&hide_border=true&title_color=D8D8F6&icon_color=D8D8F6&text_color=c9d1d9&bg_color=0d1117" alt="João Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohnq&layout=compact&hide_border=true&title_color=D8D8F6&text_color=D8D8F6&bg_color=0d1117" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+HENRIQUE;I'M+17+YEARS+OLD;I+FROM+BRAZIL,+BA;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 <a href="https://instagram.com/https_henrique99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://linkedin.com/in/joao-henrique-de-souza-silva-b43921196" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="joaohenriquess3287@gmail.com" target="_blank">
+  
+![GMAIL](https://img.shields.io/badge/joaohenriquess3287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+  
+</a>
+
+</div>
+  
+👨‍💻💡: Passionate about front-end development and seeking new challenges!
+- My journey as a front-end developer and what motivates me.
+- Why I'm excited to learn mobile development.
+
+📱📚: Expanding my skill set!
+- My initial experiences with mobile development and how I'm adapting.
+- In the future I intend to learn native languages to deliver a more immersive experience with (Swift/Objective-C, Java/Kotlin)
+
+🌟🌐: Exploring the multi-platform world!
+- My journey in discovering cross-platform frameworks like Flutter
+- The excitement of writing code once and having apps for different platforms.
+
+🎯📚: Always in pursuit of knowledge!
+- How I stay updated on the latest trends and best practices in mobile development.
+- The courses, tutorials, and online resources I'm using to enhance my skills.
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joohnq&show_icons=true&count_private=true&hide_border=true&title_color=D8D8F6&icon_color=D8D8F6&text_color=c9d1d9&bg_color=0d1117" alt="João Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joohnq&layout=compact&hide_border=true&title_color=D8D8F6&text_color=D8D8F6&bg_color=0d1117" />
 </div>
 
 #### 💻 Tech Stack:
