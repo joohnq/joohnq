@@ -5,7 +5,7 @@
 <div align="center">  
 <a href="https://instagram.com/https_henrique99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://linkedin.com/in/joao-henrique-de-souza-silva-b43921196" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="joaohenriquess3287@gmail.com" target="_blank">
+<a href="mailto:joaohenriquess3287@gmail.com" target="_blank">
   
 ![GMAIL](https://img.shields.io/badge/joaohenriquess3287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
   
