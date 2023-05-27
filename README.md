@@ -9,6 +9,9 @@
 &nbsp;</a>
 </div>
   
+[Enviar um email](mailto:joaohenriquess3287@gmail.com)
+
+  
 👨‍💻💡: Passionate about front-end development and seeking new challenges!
 - My journey as a front-end developer and what motivates me.
 - Why I'm excited to learn mobile development.
