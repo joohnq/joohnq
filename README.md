@@ -42,8 +42,8 @@
 ![STYLED COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
   
 #### 📚 Studying in this moment:
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![ANDROID](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![KOTLIN](https://img.shields.io/badge/Kotlin-7a4ff3?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 #### 🛠️ Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0273b1?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
