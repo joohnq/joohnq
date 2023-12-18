@@ -25,20 +25,21 @@
 🚀 Let's work together to elevate the user experience to a whole new level! 🌟.
 
 #### 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![STYLED COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![ANDROID](https://img.shields.io/badge/Android-4285f4?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![KOTLIN](https://img.shields.io/badge/Kotlin-7a4ff3?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![XML](https://img.shields.io/badge/XML-f1662a?style=for-the-badge&logo=xml&logoColor=white)&nbsp;
+![FIREBASE](https://img.shields.io/badge/FIREBASE-f6820c?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MYSQL-026880?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLITE](https://img.shields.io/badge/SQLITE-003956?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![FLUTTER](https://img.shields.io/badge/Flutter-1c2837?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![DART](https://img.shields.io/badge/DART-03589c?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
   
 #### 📚 Studying in this moment:
 ![ANDROID](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![KOTLIN](https://img.shields.io/badge/Kotlin-7a4ff3?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![FLUTTER](https://img.shields.io/badge/Flutter-1c2837?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### 🛠️ Tools:
+![Android Studio](https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=Android%20Studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0273b1?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-9a54f2?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
