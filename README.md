@@ -25,14 +25,12 @@
 🚀 Let's work together to elevate the user experience to a whole new level! 🌟.
 
 #### 💻 Tech Stack:
-![ANDROID](https://img.shields.io/badge/Android-4285f4?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![ANDROID](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![KOTLIN](https://img.shields.io/badge/Kotlin-7a4ff3?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![XML](https://img.shields.io/badge/XML-f1662a?style=for-the-badge&logo=xml&logoColor=white)&nbsp;
+![XML](https://img.shields.io/badge/xml-f1662a?style=for-the-badge&logo=xml&logoColor=white)&nbsp;
 ![FIREBASE](https://img.shields.io/badge/FIREBASE-f6820c?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MYSQL-026880?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLITE](https://img.shields.io/badge/SQLITE-003956?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![FLUTTER](https://img.shields.io/badge/Flutter-1c2837?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![DART](https://img.shields.io/badge/DART-03589c?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
   
 #### 📚 Studying in this moment:
 ![ANDROID](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)&nbsp;
