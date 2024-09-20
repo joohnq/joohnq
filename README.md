@@ -4,32 +4,58 @@
 
 <div align="center">  
 <a href="https://instagram.com/jhenrique.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://linkedin.com/in/joao-henrique-de-souza-silva-b43921196" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://linkedin.com/in/joohnq" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="mailto:joaohenriquess3287@gmail.com" target="_blank"><img src="https://img.shields.io/badge/joaohenriquess3287@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 &nbsp;</a>
 </div>
   <br>
+                                                                
+<table>
+  <tr>
+    <th>PT-BR</th>
+    <th>EN</th>
+  </tr>
+  <tr>
+<td>:Oi, eu sou João Henrique, tenho 18 anos e sou desenvolvedor Android. Focado no desenvolvimento de apps nativos desde o final de 2023, especialmente usando Kotlin e seguindo as melhores práticas do mercado.
 
-I am an Android developer, dedicating myself intensely to creating applications since the end of 2023. I started my journey in web development, but soon found my true passion in Android development. To date, I am developing my second app that reflects my skills and dedication. 
-- I am committed to improving my skills and expanding my knowledge in the mobile field. 
-- My future goals include mastering other mobile development platforms, such as iOS, and exploring technologies to create innovative and impactful solutions in the mobile universe. 
-I am always looking for new challenges and opportunities that allow me to grow professionally and contribute significantly to the sector.
+ - +- 1 ano de experiência em desenvolvimento de aplicativos nativos Android (Kotlin);
+- Diferentes tipos de viewGroups (Layout);
+- Conhecimentos básicos no Android SDK (Lifecycle, LiveData, ViewModel);
+- Ferramentas de versionamento de código e desenvolvimento colaborativo;
+- Consumo de APIs RESTful com Coroutines;
+- Injeção de dependências;
+- Arquitetura de software (Clean Architecture, MVVM)
+- Princípios SOLID e padrões de projetos;
+- Teste unitário;
+- Android Jetpack Components.
+- Firebase</td>
+<td>Hi, I’m João Henrique, I’m 18 years old, and I’m an Android developer. I’ve been focused on developing native apps since late 2023, especially using Kotlin and following the best practices in the industry.
 
-Soft skills strengths:
+- +- 1 year of experience in native Android app development (Kotlin);
+- Various types of ViewGroups (Layouts);
+- Basic knowledge of the Android SDK (Lifecycle, LiveData, ViewModel);
+- Version control tools and collaborative development;
+- Consuming RESTful APIs with Coroutines;
+- Dependency injection;
+- Software architecture (Clean Architecture, MVVM);
+- SOLID principles and design patterns;
+- Unit testing;
+- Android Jetpack Components;
+- Firebase.</td>
+  </tr>
+</table>
+                                                                
 
- - Adaptability: Ability to quickly adjust to new technologies and work environments, ensuring a smooth and efficient transition between projects and platforms.
-- Work ethics: Commitment to integrity and responsibility, always meeting deadlines and striving for good quality standards in all my deliveries.
-- Companionship: I value teamwork and believe that collaboration is essential to the success of any project. I am always willing to help and learn from my colleagues.
-- Organization: Ability to manage my time and resources effectively, ensuring that all tasks are completed in an orderly and efficient manner, which increases productivity and quality of work.
-  
+
 #### 💻 Tech Stack:
-![KOTLIN](https://img.shields.io/badge/Kotlin-6b47d2?style=for-the-badge&logo=kotlin&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-33a652?style=for-the-badge&logo=android&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![GIT](https://img.shields.io/badge/Android-33a652?style=for-the-badge&logo=android&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white)
+![SUPABASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 🛠️ Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0273b1?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0273b1?style=for-the-badge&logo=Android%20Studio&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-9a54f2?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
