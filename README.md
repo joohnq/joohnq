@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34a853&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+HENRIQUE;I'M+18+YEARS+OLD;I+FROM+BRAZIL,+BA;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8D8F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+HENRIQUE;I'M+19+YEARS+OLD;I+FROM+BRAZIL,+BA;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 <a href="https://instagram.com/jhenrique.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
