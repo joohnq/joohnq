@@ -1,3 +1,6 @@
+
+![1742565356773](https://github.com/user-attachments/assets/683ee47a-b1b1-4500-b6f0-48d958ba93d2)
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+:%29+MY+NAME+IS+JOÃO+HENRIQUE;I'M+19+YEARS+OLD;I'M+FROM+BRAZIL,+BA)
