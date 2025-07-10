@@ -44,12 +44,18 @@ I'm a proactive and resilient developer passionate about turning ideas into impa
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Open Source Contributions
+I actively contribute to open-source projects and love giving back to the developer community. Some highlights:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joohnq&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnq&layout=compact&theme=github_dark" width="48%"/>
-</p>
+<ul>
+  <li>
+    <a href="https://github.com/thunderbird/thunderbird-android">thunderbird-android</a> : I am currently contributing by adding features and improvements to Mozilla’s Android email client. I’m proud to be one of the top contributors to this legendary repository.
+    <br>
+    👉 <a href="https://github.com/thunderbird/thunderbird-android/pulls?q=is%3Apr+author%3Ajoohnq+is%3Aclosed+">See My Contributions</a>
+    <br>
+    👉 <a href="https://github.com/thunderbird/thunderbird-android/graphs/contributors">Contributor Rank</a>
+  </li>
+</ul>
 
 ---
 
@@ -64,24 +70,6 @@ I'm a proactive and resilient developer passionate about turning ideas into impa
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-## 🛠️ Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-0273b1?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-9a54f2?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🔧 Open Source Contributions
-
-- 📧 [Thunderbird Android (K-9 Mail)](https://github.com/thunderbird/thunderbird-android)
-
----
 
 <p align="center">
   <strong>Thank you for visiting!</strong> 🙌  
