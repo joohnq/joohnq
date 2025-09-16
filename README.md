@@ -1,34 +1,15 @@
 
 ![1742565356773](https://github.com/user-attachments/assets/683ee47a-b1b1-4500-b6f0-48d958ba93d2)
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+:%29+MY+NAME+IS+JOÃO+HENRIQUE;I'M+19+YEARS+OLD;I'M+FROM+BRAZIL,+BA)
-
-<p align="center">
-  <a href="https://linkedin.com/in/joohnq" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:joaohenriquess3287@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-I'm a 19-year-old **Android Developer** from Brazil 🇧🇷 with **1 year and 7 months of experience**.
+I'm a 19-year-old **Android Developer** from Brazil 🇧🇷
 
 - 🚀 Creator of **Moodly** (Android & iOS) — built from scratch using Kotlin Multiplatform, Clean Architecture, MVI, and SQLDelight.
 - 🌍 Active contributor to **open-source** Android projects.
 - 💡 Focused on usability, accessibility, and clean code using **Jetpack Compose** and **Kotlin**.
 
 I'm a proactive and resilient developer passionate about turning ideas into impactful mobile experiences. I continuously sharpen my skills in native Android and Kotlin Multiplatform, collaborating with teams to build scalable, high-quality apps.
-
----
 
 ## 🧠 Core Skills
 
@@ -41,8 +22,6 @@ I'm a proactive and resilient developer passionate about turning ideas into impa
 - **Testing:** JUnit, MockK, Espresso, Compose Test  
 - **CI/CD:** GitHub Actions  
 - **Tools:** Git, GitHub, Android Studio, Figma, Google Play Console
-
----
 
 ## 🧩 Open Source Contributions
 I actively contribute to open-source projects and love giving back to the developer community. Some highlights:
@@ -57,8 +36,6 @@ I actively contribute to open-source projects and love giving back to the develo
   </li>
 </ul>
 
----
-
 ## 💻 Tech Stack
 
 <p>
@@ -67,7 +44,6 @@ I actively contribute to open-source projects and love giving back to the develo
   <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4988F6?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-F87C08?style=for-the-badge&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
