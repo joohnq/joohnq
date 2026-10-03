@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 19-year-old **Android Developer** from Brazil 🇧🇷 experienced in **end-to-end delivery**. 
+I'm a 20-year-old **Android Developer** from Brazil 🇧🇷 experienced in **end-to-end delivery**. 
 
 My work spans from **architectural design** and **Backend/BFF integration** to crafting polished interfaces with **Jetpack Compose**. I focus on exploring the potential of **Kotlin Multiplatform (CMP)** to optimize mobile development, while ensuring software quality through automated testing and cross-platform (Android/iOS) troubleshooting.
 
